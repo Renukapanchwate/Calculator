@@ -6,7 +6,7 @@ body {
     overflow-y: auto;
      height: 100vh;
      width: 100%;
-     background-image: url("https://image.slidesdocs.com/responsive-images/background/handdrawn-style-blue-cute-education-math-lovely-powerpoint-background_a698b5341c__960_540.jpg");
+     background-image: url("BackgroundImg");
      background-position: center;
      background-size: cover;
      background-repeat: no-repeat;
